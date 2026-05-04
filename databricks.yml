@@ -1,0 +1,11 @@
+bundle:
+  name: vattenfall-week9-capstone-EmilyImunde
+
+include:
+  - resources/*.yml
+
+targets:
+  dev:
+    default: true
+    workspace:
+      host: https://dbc-58959988-a549.cloud.databricks.com/

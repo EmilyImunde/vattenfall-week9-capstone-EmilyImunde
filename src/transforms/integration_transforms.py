@@ -17,6 +17,7 @@ def build_regional_operations_base(
             "asset_id",
             "event_type",
             "severity",
+            "severity_band",
             "duration_minutes",
             "source_system",
         )

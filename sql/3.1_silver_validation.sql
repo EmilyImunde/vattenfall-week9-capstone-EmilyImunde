@@ -9,3 +9,6 @@ FROM vattenfall_dev.refined.silver_grid_events;
 
 SELECT COUNT(*) AS row_count
 FROM vattenfall_dev.refined.silver_asset_reference;
+
+SELECT COUNT(*) AS row_count
+FROM vattenfall_dev.refined.silver_regional_operations_base;

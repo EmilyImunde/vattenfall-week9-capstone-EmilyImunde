@@ -1,0 +1,8 @@
+quality_rules:
+  min_temperature_c: -40
+  max_temperature_c: 60
+  min_duration_minutes: 0
+
+classification_rules:
+  high_market_price_threshold: 75
+  elevated_wind_speed_threshold: 30
